@@ -1,0 +1,43 @@
+# How to win friends and influence people
+
+## 1. General principle
+
+1. **Don't criticize** - people get into defensive mode when you criticize and will relate bad experiences with those who criticized them. Criticism hardly changes anyone, it mostly pushes people away.
+2. **Honest appreciation** - people love when they get a compliment, but don't overdo it. Give honest and small appreciation. Most people feel they are invisible to society; a little notice will help boost their attitude toward you.
+3. **Care about others' interests** - always start conversations with what they want, not your own. Always ask yourself "What does this person care about?" and try to genuinely care about that too.
+
+## 2. Make people like you
+
+1. **Show genuine interest in other people** - ask about them, their lives, their work. People are most interested in themselves, tap into that by being curious about them.
+2. **Smile&#x20;**- a simple smile signals warmth and approachability. It makes others feel good being around you, no words needed.
+3. **Remember people's names** - a person's name is the sweetest sound to them. Forgetting it signals they weren't important enough to remember.
+4. **Be a good listener** - encourage others to talk about themselves. Listen more than you speak. People prefer good listeners over smooth talkers.
+5. **Talk in terms of other person's interest** - find what they care about and lead with that. It's easier to win people's hearts on things they already agree with and are interested in.
+6. **Make the other person feel important, sincerely** - everyone wants to feel valued. Give honest, specific recognition without flattery.
+
+## 3. Win people to your way of thinking
+
+1. **Don't argue** - there's a difference between arguing \(combative, ego-driven\) and disagreeing \(productive, idea-focused\). An argument is about winning, not understanding. Even if you win factually, you will lose the person's heart. Try to sympathize and understand the other person. Let them have their moment if it's not the end of the world.
+2. **Show respect for the other, don't say they are wrong \(bluntly\)** - do you expect to win people by saying they are wrong? Most people are biased, not logical. Try to listen to them, put yourself in their shoes, try to understand why they think the way they do, and nudge them little by little.
+3. **If you are wrong, admit it quickly and sincerely** - it is easier for us to listen to our own criticism than to have someone else do it to us. People love to show they have the upper hand. If you say you are wrong yourself, the only way left for them is to apologize. That's the only response they have when put in that position.
+4. **Be friendly** - a drop of honey catches more flies than a gallon of gall. Friendliness isn't just about being nice. It's about staying warm even when you're frustrated with someone. A calm tone and a genuine question will disarm people faster than any argument ever could.
+5. **Start from common ground** - find what you both already agree on before tackling the hard parts. Agreement on small things builds momentum and trust, making it easier to discuss differences later. Frame things in terms of shared goals, not your own agenda.
+6. **Let them do the talking, do not interrupt** - when you interrupt someone, you signal that your point matters more than theirs. That makes them dig in and resist whatever you say next. Letting them finish builds trust instead of friction, and people who trust you are far easier to steer. Encourage them to keep talking; most of the persuasion happens while they feel heard, without you doing the heavy lifting.
+7. **Make people think the idea is theirs** - when people feel they came up with an idea themselves, they defend it fiercely. Instead of telling someone what to do, plant seeds: ask questions that guide them toward the conclusion you want. They'll walk away thinking it was their own insight, and that's when real buy-in happens.
+8. **Really try to understand people** - when someone does something that bothers you, pause and ask yourself why they might be acting that way. Most people aren't irrational. They're just operating from a context you haven't seen yet. The moment they sense you're genuinely trying to understand rather than judge, they soften and cooperate.
+9. **Everybody wants sympathy** - when someone acts unreasonable or not in your favor, try thinking: if all the circumstances and experiences they've had in life led them to this point, and the same had happened to you, isn't that what you would do too? A phrase like "If I were you, I'd definitely feel the same." will disarms people instantly because it signals you're not judging, you're standing in their shoes. Sympathize by genuinely understanding why people behave the way they do.
+10. **Everyone wants to be a good person** - people's actions are mainly driven by two things: what they actually want to do, and what they think is the right thing to do. The fact is, most people don't want to be bad or difficult. Everyone wants to be good. Give them a choice that lets them be \(or at least seem like\) a good person.
+11. **Dramatized your idea** - the truth alone isn't enough; it has to be made vivid and compelling. People are moved by what they feel, not just what they hear. A dry fact stated plainly gets ignored. That same fact wrapped in a story, a demonstration, or a striking visual sticks. If you want your idea to land, don't just state it. Show it. Make it impossible to ignore.
+12. **Encourage with challenge** - being told to do something always makes people feel pushed against. Nobody likes being ordered around. But if they feel they want to do the task themselves, that's when real productivity kicks in. Nudge them with a subtle challenge. Make them want to do it on their own. Turn it into a game. A fun challenge leads to high output and almost no resentment.
+
+## 4. How to lead
+
+1. **Begin with praise and honest appreciation** - praise is like anesthesia before a dentist session. The patient still gets drilled, but it hurts less. If you really must find fault with someone, praise them and appreciate them from the heart before stating your business.
+2. **Call out mistakes indirectly** - when you really want to correct someone, do it indirectly. Instead of pointing at the problem head-on like, "This is wrong, you're coupling these two modules together," try: "This is very simple and clean code\! If we add a little more interface we can get the decoupling benefit too\!"
+3. **Mention your own mistakes first** - nobody is great without experience. Where you stand right now is the result of many mistakes and criticisms you went through. Don't expect a junior to know what you know. Give a sincere recommendation and mention the same kind of problem you faced before, then tell them how you overcame it.
+4. **No one likes taking orders** - asking for someone's opinion or asking for a favor is an order in disguise, and it's the best kind. Most people want to be useful and be seen as good, so when you ask for their help instead of giving a direct order, it helps a lot.
+5. **Let other person save face** - people will dig in and defend their mistakes if correcting them means public humiliation. Protect their dignity, address issues privately, and give them room to retreat without feeling small. When you preserve someone's pride, they are far more willing to change.
+6. **Praise a little improvement others did** - praise progress, not just perfection. When someone improves even slightly, notice it and mention it specifically. Small wins build confidence and motivation far more than criticism of what still needs work.
+7. **Give a dog a good name** - treat people as if they already have the trait you want to encourage. Imagine going to a meeting and the CEO says to you, "Oh, I've heard your name for a long time. The manager said you are the most creative person on his team. Go on, you can start the presentation." Wouldn't that make you want to be exactly as they described? People tend to become what we label them, so choose labels that bring out their best.
+8. **Make the mistake seem easy to correct** - if a mistake feels huge, people avoid facing it. Show that the fix is small and achievable, and make the next step simple. When correction feels manageable, people are more likely to act on it without resentment.
+9. **Make the other person want to do what you want** - you cannot force genuine cooperation. Align your request with their interests, values, and self-image. When they want it themselves, you do not need to push; the motivation comes from within.
