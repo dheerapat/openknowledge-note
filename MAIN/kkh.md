@@ -13,7 +13,7 @@ Khon Kaen Hospital develops and operates its own hospital information system (HI
 
 - It runs the open-source Qwen3.5 122B A10B model on its own H200 hardware, so it controls the context instead of relying on an external provider.
 - Its main asset is the large volume of data it accumulates.
-- Its primary use case is ICD10 code suggestion: a physician may overlook a code that the patient history supports, and every extra recorded code can recover roughly a million in reimbursement.
+- Its primary use case is ICD10 code suggestion: a physician may overlook a code that the patient history supports, and every extra recorded code can recover million in reimbursement.
 
 The AI is advisory only — it suggests and generates dashboards, while physicians make the final call.
 
