@@ -27,4 +27,4 @@ The real work is the data pipeline, not the AI: getting the right data to the ri
   - Slow generation, maybe model need to be smaller so can generate faster prediction.
   - Do ease a burden on nurse that do a triage, reduce form filling and button clicking.
   - Quality of triage is direct impact from referal detail
-  - Nurse do have a criterial, and training system to train personnel on tr
+  - Nurse do have a criterial, and training system to train personnel on triage, but detail on use that info into AI context is not disclose.
