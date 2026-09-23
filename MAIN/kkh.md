@@ -13,6 +13,7 @@ Khon Kaen Hospital runs everything itself: its own hospital information system (
 
 - Hosts an open-source model — Qwen3.5 122B A10B — on local H200 hardware, shaping the context itself instead of calling an outside provider.
 - Sits on a large body of data, which is its central advantage.
+- The main point is ICD10 code suggestion, doctor may miss some icd10 code base on patient history, 1 recorded icd10 code help generate
 
 Its AI never decides anything on its own. It suggests, and it builds dashboards, while the doctors keep the final call.
 
