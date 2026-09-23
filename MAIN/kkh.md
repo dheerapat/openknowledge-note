@@ -7,4 +7,4 @@
 
 No AI decision, only suggestion, dashboard generation
 
-Qwen
+Qwen3.6 122B
