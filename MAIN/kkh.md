@@ -15,5 +15,3 @@ tags:
 - Holds a large volume of data, which is a key advantage
 
 AI does not make decisions — it only offers suggestions and generates dashboards so doctors can decide for themselves
-
-Model -> Qwen3.6 122B
