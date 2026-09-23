@@ -9,9 +9,11 @@ tags:
 ---
 # Khon Kaen Hospital
 
-- Operates its own hospital information system (HIS), independent of any vendor
-- Staffed by an internal IT team
-- Serves an open-source model locally on an H200, relying on context construction rather than a hosted provider
-- Holds a large volume of data, which is a key advantage
+Khon Kaen Hospital runs everything itself: its own hospital information system (HIS), built and maintained by an in-house IT team rather than bought from a vendor.
 
-AI does not make decisions — it only offers suggestions and generates dashboards so doctors can decide for themselves
+- Hosts an open-source model — Qwen3.5 122B A10B — on local H200 hardware, shaping the context itself instead of calling an outside provider.
+- Sits on a large body of data, which is its central advantage.
+
+Its AI never decides anything on its own. It suggests, and it builds dashboards, while the doctors keep the final call.
+
+The real work is the data pipeline, not the AI: getting the right data to the right place at the right time is what counts.
