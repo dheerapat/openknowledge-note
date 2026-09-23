@@ -24,5 +24,7 @@ The real work is the data pipeline, not the AI: getting the right data to the ri
 - When hospital want to refer OPD patient to the hospital, they will apply patient data into central system and destination hospital will get the data to work on
 - KKH hospital will load all data from central api into HIS, and use AI to triage  from refer detail which department and ward to attend
 - bottleneck found
-  - slow generation, maybe model need to be smaller so can generate faster prediction.
-  - do ease a burden on nurse that do a triage, reduce form filling and button clicking.
+  - Slow generation, maybe model need to be smaller so can generate faster prediction.
+  - Do ease a burden on nurse that do a triage, reduce form filling and button clicking.
+  - Quality of triage is direct impact from referal detail
+  - Nurse do have a criterial, and training system to train personnel on tr
