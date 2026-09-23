@@ -9,22 +9,23 @@ tags:
 ---
 # Khon Kaen Hospital
 
-Khon Kaen Hospital runs everything itself: its own hospital information system (HIS), built and maintained by an in-house IT team rather than bought from a vendor.
+Khon Kaen Hospital builds and runs its own hospital information system (HIS) through an internal IT team, keeping development and maintenance in-house instead of buying from a vendor.
 
-- Hosts an open-source model — Qwen3.5 122B A10B — on local H200 hardware, shaping the context itself instead of calling an outside provider.
-- Sits on a large body of data, which is its central advantage.
-- The main point is ICD10 code suggestion, doctor may miss some icd10 code base on patient history, 1 recorded icd10 code help generate like a million in reimburse.
+- It self-hosts the open-source Qwen3.5 122B A10B model on local H200 hardware, controlling its own context rather than calling an outside provider.
+- Its central advantage is the large body of data it holds.
+- Its core use case is ICD10 code suggestion: a doctor may miss a code supported by the patient history, and each additional recorded code can unlock roughly a million in reimbursement.
 
-Its AI never decides anything on its own. It suggests, and it builds dashboards, while the doctors keep the final call.
+The AI never acts on its own. It only offers suggestions and builds dashboards, while doctors retain the final decision.
 
-The real work is the data pipeline, not the AI: getting the right data to the right place at the right time is what counts.
+The real work is the data pipeline, not the AI: moving the right data to the right place at the right time is what actually counts.
 
-## Refereal system
+## Referral system
 
-- When hospital want to refer OPD patient to the hospital, they will apply patient data into central system and destination hospital will get the data to work on
-- KKH hospital will load all data from central api into HIS, and use AI to triage  from refer detail which department and ward to attend
-- bottleneck found
-  - Slow generation, maybe model need to be smaller so can generate faster prediction.
-  - Do ease a burden on nurse that do a triage, reduce form filling and button clicking.
-  - Quality of triage is direct impact from referal detail
-  - Nurse do have a criterial, and training system to train personnel on triage, but detail on use that info into AI context is not disclose.
+- When a hospital wants to refer an OPD patient, it submits the patient's data to a central system, and the receiving hospital works from that data.
+- KKH loads all data from the central API into its HIS and uses AI to triage referral details, determining which department and ward should attend to the patient.
+- Bottlenecks identified:
+  - Generation is slow; a smaller model may be needed to produce faster predictions.
+  - Triage quality depends directly on the quality of the referral detail.
+  - Nurses have triage criteria and a training system, but how that information is folded into the AI context is not disclosed.
+
+Feed
