@@ -21,5 +21,7 @@ The real work is the data pipeline, not the AI: getting the right data to the ri
 
 ## Refereal system
 
-- When hospital want to refer patient to the hospital, they will apply patient data into central system and destination hospital will get the data to work on
-- KKH hospital will load all data from central api into HIS, and use AI to triage
+- When hospital want to refer OPD patient to the hospital, they will apply patient data into central system and destination hospital will get the data to work on
+- KKH hospital will load all data from central api into HIS, and use AI to triage which department and ward to attend
+- bottleneck found
+  - 
