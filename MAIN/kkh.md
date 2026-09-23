@@ -19,7 +19,7 @@ The AI never acts on its own. It only offers suggestions and builds dashboards, 
 
 The real work is the data pipeline, not the AI: moving the right data to the right place at the right time is what actually counts.
 
-## Referral system
+## Demo session: Referral system
 
 - When a hospital wants to refer an OPD patient, it submits the patient's data to a central system, and the receiving hospital works from that data.
 - KKH loads all data from the central API into its HIS and uses AI to triage referral details, determining which department and ward should attend to the patient.
@@ -28,4 +28,6 @@ The real work is the data pipeline, not the AI: moving the right data to the rig
   - Triage quality depends directly on the quality of the referral detail.
   - Nurses have triage criteria and a training system, but how that information is folded into the AI context is not disclosed.
 
-Feed
+Feedback
+
+- The system do actually ease the triage burden on nurses by reducing form filling and button clicking.
