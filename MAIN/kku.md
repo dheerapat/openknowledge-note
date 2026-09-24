@@ -6,11 +6,13 @@ tags:
   - icu
   - ai
 ---
-## From Bedside Data to AI — KKU Critical Care
+# From Bedside Data to AI — KKU Critical Care
 
-### Medical ICU
+KKU Critical Care's initiative to turn high-frequency ICU data into AI-assisted patient care. The medical ICU already generates a massive volume of data every minute; the goal is to capture, integrate, and act on it.
 
-The medical ICU generates a massive volume of data every minute, from:
+## Medical ICU data sources
+
+The medical ICU streams data continuously from:
 
 - **Bedside monitors** — heart rate (HR), blood pressure (BP), oxygen saturation (SpO2), respiratory rate (RR), temperature, and ECG
 - **Ventilators**
@@ -19,9 +21,9 @@ The medical ICU generates a massive volume of data every minute, from:
 - **ECMO** (extracorporeal membrane oxygenation)
 - **IABP** (intra-aortic balloon pump)
 
-### Smart ICU
+## Smart ICU
 
-Mission:
+**Mission**
 
 - Support staff
 - Improve patient safety
@@ -29,11 +31,22 @@ Mission:
 
 > Smart = safe, monitored, AI-driven, reliable technology.
 
-The data pipeline runs: gather data → integrate data from many sources (lab, EHR, etc.) → AI context → analysis → patient care.
+The data pipeline runs end to end:
 
-## Bottleneck
+```mermaid
+flowchart LR
+  A[Gather data] --> B[Integrate many sources<br/>lab, EHR, monitors] --> C[AI context] --> D[Analysis] --> E[Patient care]
+```
 
-- some medical equipment lack external port to send data externally (need to specify in TOR before hands from now on)
-- still need label manually (since we coollect only data) we still need to label what happen to the patient in the time frame of data collected
-- EHR have to mature, if hospital still lack electornic doctore note, order, patient history, it will not perfrom very wel
-- some data streaming in milli sec interval, still dont know how to collect it
+## Bottlenecks
+
+| Bottleneck | Detail |
+| --- | --- |
+| Missing data ports | Some medical equipment lacks an external port to send data out. From now on this must be specified in the TOR before equipment is handed over. |
+| Manual labeling | Only raw data is collected, so what happened to the patient during each time frame still has to be labeled by hand. |
+| Immature EHR | If the hospital still lacks electronic doctor notes, orders, and patient history, the system will not perform well. |
+| Millisecond streams | Some data streams arrive at millisecond intervals, and how to collect them is still unknown. |
+
+## Related
+
+- [Khon Kaen Hospital](./kkh.md) — in-house HIS, local model serving, and AI-as-suggestion.
