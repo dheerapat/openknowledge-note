@@ -48,8 +48,8 @@ flowchart LR
 | Millisecond streams | Some data streams arrive at millisecond intervals, and how to collect them is still unknown. |
 | External validation | No other hospital collect as much data as KKU does, so model develop from KKU can't really validate externally |
 
-Need
+## Need
 
 - LLM talking with smart ICU system - what happen yesterday, that day ?
-- Order suggestion - from clinical practice guidline
+- Order suggestion - from clinical practice guidline.
 - ICU course summarisation - what happened during the clinical course from start to discarge ?
