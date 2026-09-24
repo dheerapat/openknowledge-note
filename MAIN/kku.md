@@ -54,3 +54,4 @@ flowchart LR
 - Order suggestion - from clinical practice guidline.
 - ICU course summarisation - what happened during the clinical course from start to discarge ?
 
+A Anupol Panitchote panupo@kku.ac.th 0647963556
