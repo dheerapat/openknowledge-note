@@ -35,4 +35,5 @@ The data pipeline runs: gather data → integrate data from many sources (lab, E
 
 - some medical equipment lack external port to send data externally (need to specify in TOR before hands from now on)
 - still need label manually (since we coollect only data) we still need to label what happen to the patient in the time frame of data collected
-- EHR have to mature, if hospital still lack electornic doctore note, order, patient history,
+- EHR have to mature, if hospital still lack electornic doctore note, order, patient history, it will not perfrom very wel
+- some data streaming in milli sec interval, still dont know how to collect it
