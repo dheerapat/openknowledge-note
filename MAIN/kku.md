@@ -47,3 +47,8 @@ flowchart LR
 | Immature EHR | If the hospital still lacks electronic doctor notes, orders, and patient history, the system will not perform well. |
 | Millisecond streams | Some data streams arrive at millisecond intervals, and how to collect them is still unknown. |
 | External validation | No other hospital collect as much data as KKU does, so model develop from KKU can't really validate externally |
+
+Need
+
+- LLM talking with smart ICU system - what happen yesterday, that day ?
+- 
