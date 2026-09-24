@@ -25,3 +25,6 @@ mission
 smart = safe, monitored ai driven reliable teching
 
 
+gather data -> integrate data from many source (lab, EHR etc) -> AI context -> analysis -> patient care
+
+
