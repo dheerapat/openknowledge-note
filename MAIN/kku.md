@@ -30,3 +30,8 @@ Mission:
 > Smart = safe, monitored, AI-driven, reliable technology.
 
 The data pipeline runs: gather data → integrate data from many sources (lab, EHR, etc.) → AI context → analysis → patient care.
+
+## Bottleneck
+
+- some medical equipment lack external port to send data externally (need to specify in TOR before hands from now on)
+- still need label
