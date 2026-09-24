@@ -34,4 +34,5 @@ The data pipeline runs: gather data → integrate data from many sources (lab, E
 ## Bottleneck
 
 - some medical equipment lack external port to send data externally (need to specify in TOR before hands from now on)
-- still need label
+- still need label manually (since we coollect only data) we still need to label what happen to the patient in the time frame of data collected
+- 
