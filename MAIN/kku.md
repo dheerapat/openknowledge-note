@@ -14,5 +14,14 @@ ICU have a massive data generated per minute
 - ECMO
 - IABP
 
-\*\*Smart ICU\*\*
+**Smart ICU**
+
+mission
+
+- support staff
+- improve patient safety
+- ai ready capability
+
+smart = safe, monitored ai driven reliable teching
+
 
