@@ -46,8 +46,4 @@ flowchart LR
 | Manual labeling | Only raw data is collected, so what happened to the patient during each time frame still has to be labeled by hand. |
 | Immature EHR | If the hospital still lacks electronic doctor notes, orders, and patient history, the system will not perform well. |
 | Millisecond streams | Some data streams arrive at millisecond intervals, and how to collect them is still unknown. |
-| External validation | No other hospital collect as much data as KKU does, so model develop from us can't really |
-
-## Related
-
-- [Khon Kaen Hospital](./kkh.md) — in-house HIS, local model serving, and AI-as-suggestion.
+| External validation | No other hospital collect as much data as KKU does, so model develop from KKU can't really validate externally |
