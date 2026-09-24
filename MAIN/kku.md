@@ -1,30 +1,32 @@
-# Khon Kaen University
+---
+title: Khon Kaen University
+description: Notes on KKU Critical Care's "From Bedside Data to AI" initiative — ICU data sources, the Smart ICU mission, and the data-to-care pipeline.
+tags:
+  - healthcare
+  - icu
+  - ai
+---
+## From Bedside Data to AI — KKU Critical Care
 
-## From Bedside Data to AI - KKU Critical Care
+### Medical ICU
 
-**Medical ICU**
+The medical ICU generates a massive volume of data every minute, from:
 
-ICU have a massive data generated per minute
+- **Bedside monitors** — heart rate (HR), blood pressure (BP), oxygen saturation (SpO2), respiratory rate (RR), temperature, and ECG
+- **Ventilators**
+- **Infusion pumps**
+- **CRRT** (continuous renal replacement therapy) and urinalysis
+- **ECMO** (extracorporeal membrane oxygenation)
+- **IABP** (intra-aortic balloon pump)
 
-- Bedside monitor
-  - HR, BP, SpO2, RR, temp, ECG
-- Ventilator
-- Infusion pump
-- CRRT, urianalysis
-- ECMO
-- IABP
+### Smart ICU
 
-**Smart ICU**
+Mission:
 
-mission
+- Support staff
+- Improve patient safety
+- Build AI-ready capability
 
-- support staff
-- improve patient safety
-- ai ready capability
+> Smart = safe, monitored, AI-driven, reliable technology.
 
-smart = safe, monitored ai driven reliable teching
-
-
-gather data -> integrate data from many source (lab, EHR etc) -> AI context -> analysis -> patient care
-
-
+The data pipeline runs: gather data → integrate data from many sources (lab, EHR, etc.) → AI context → analysis → patient care.
