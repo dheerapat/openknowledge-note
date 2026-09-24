@@ -53,3 +53,4 @@ flowchart LR
 - LLM talking with smart ICU system - what happen yesterday, that day ?
 - Order suggestion - from clinical practice guidline.
 - ICU course summarisation - what happened during the clinical course from start to discarge ?
+
