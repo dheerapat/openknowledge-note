@@ -2,7 +2,14 @@
 
 ## From Bedside Data to AI - KKU Critical Care
 
-Medical ICU
+\~\~Medical ICU
+
+ICU have a massive data generated per minute
 
 - Bedside monitor
-  - HR, BP, SpO2,
+  - HR, BP, SpO2, RR, temp, ECG
+- Ventilator
+- Infusion pump
+- CRRT, urianalysis
+- ECMO
+- IABP
