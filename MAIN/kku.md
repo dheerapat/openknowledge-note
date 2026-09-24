@@ -2,7 +2,7 @@
 
 ## From Bedside Data to AI - KKU Critical Care
 
-\~\~Medical ICU
+**Medical ICU**
 
 ICU have a massive data generated per minute
 
@@ -13,3 +13,6 @@ ICU have a massive data generated per minute
 - CRRT, urianalysis
 - ECMO
 - IABP
+
+\*\*Smart ICU\*\*
+
